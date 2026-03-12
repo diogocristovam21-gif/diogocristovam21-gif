@@ -27,11 +27,11 @@ Because of this, I am determined to become a **Full Stack Developer**, exploring
 ## __Programming Languages:__
 
 <p>
-<img src="assets/c-pixel-logo.png" height="70" width="70">
-<img src="assets/css-logo.png" height="70">
-<img src="assets/html-logo.png" height="70">
-<img src="assets/js-1-logo.png" height="73">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+    <img src="assets/c-pixel-logo.png" height="60" style="position: relative; top: px;">
+    <img src="assets/css-logo.png" height="70">
+    <img src="assets/html-logo.png" height="70">
+    <img src="assets/js-1-logo.png" height="73">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 </p>
 
 
