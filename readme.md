@@ -11,7 +11,7 @@ I have been passionate about technology since I was 5 years old, when I received
 
 Because of this, I am determined to become a **Full Stack Developer**, exploring areas such as:
 
-**Data Science • Web Development • Systems Analysis • Cybersecurity • Automation • and many other fields in technology.**
+**Data Science • Web Development • Systems Analysis • Cybersecurity • Automation • WebDev • and many other fields in technology.**
 
 <p align="left"> 
 
